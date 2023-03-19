@@ -1,4 +1,4 @@
-# @aws-cdk/cdk-common
+# @tkssharma/cdk-common
 ## Getting started
 
-just some common utilitiesaaaaaa
+just some common utilities

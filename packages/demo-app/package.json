@@ -1,5 +1,5 @@
 {
-  "name": "demo-app",
+  "name": "@tkssharma/demo-app",
   "version": "0.1.0",
   "bin": {
     "demo-app": "bin/demo-app.js"
