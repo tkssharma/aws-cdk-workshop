@@ -9,8 +9,8 @@ export class DemoAppStack extends cdk.Stack {
     // The code that defines your stack goes here
 
     // example resource
-    // const queue = new sqs.Queue(this, 'DemoAppQueue', {
-    //   visibilityTimeout: cdk.Duration.seconds(300)
-    // });
+    const queue = new sqs.Queue(this, 'DemoAppQueue', {
+      visibilityTimeout: cdk.Duration.seconds(300),
+    });
   }
 }
